@@ -1,0 +1,77 @@
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\Tylers Stuff\Tylers VB Programs\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\Desktop\jerrod's crap - 2014\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\xxtyl_000\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\Copy of WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\My Documents\Dropbox\Visual Basic Stuff\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Form2.resources
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Documents and Settings\cp749\Desktop\GACTC Cafe Menu\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
